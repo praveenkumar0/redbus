@@ -5,7 +5,7 @@ Class first
 			{
 			System.Out.Println("welcome to git world  .....");
 			System.Out.Println("editing from git-hub  .....");
-			System.Out.Println("modified  .....");
+			System.Out.Println("modified  ....");
 			}			
 
 }
